@@ -1,0 +1,73 @@
+#HV1{
+    width: 120px;
+    height: 120px;
+    background: #4125c0;
+    display: block;
+  margin-left:auto;
+  margin-right:5%;
+}
+#HV2{
+    width: 120px;
+    height: 120px;
+    background: #11eb6c;
+    display: block;
+  margin-left:5%;
+  margin-right:auto;
+}
+#HV3{
+    width: 120px;
+    height: 120px;
+    background: #b29bb3;
+    display: block;
+  margin-left:auto;
+  margin-right:5%;
+}
+#HV4{
+    width: 120px;
+    height: 120px;
+    background: #f447ff;
+    display: block;
+  margin-left:5%;
+  margin-right:auto;
+}
+#HV5{
+    width: 120px;
+    height: 120px;
+    background: yellow;
+    display: block;
+  margin-left:auto;
+  margin-right:5%;
+}
+#HV6{
+    width: 120px;
+    height: 120px;
+    background: black;
+    display: block;
+  margin-left:5%;
+  margin-right:auto;
+}
+#HV7{
+    width: 120px;
+    height: 120px;
+    background: pink;
+    display: block;
+  margin-left:auto;
+  margin-right:5%;
+}
+#HV8{
+    width: 120px;
+    height: 120px;
+    background: red;
+    display: block;
+  margin-left:5%;
+  margin-right:auto;
+}
+#HV9{
+    width: 120px;
+    height: 120px;
+    background: goldenrod;
+    display: block;
+  margin-left:auto;
+  margin-right:5%;
+}
+
